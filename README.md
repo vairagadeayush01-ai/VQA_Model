@@ -146,7 +146,7 @@ bash
 - Built an interactive Streamlit demo
 ---
 ### 🔮 Future Work
-
+- Current live url - https://vapp-app-i8yzxkktflehv6ydtp3xot.streamlit.app/
 - Replace ResNet50 with Vision Transformer (ViT)
 - Increase answer vocabulary size (3k → 5k)
 - Add learning-rate scheduling and label smoothing
